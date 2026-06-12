@@ -1,0 +1,70 @@
+{
+  "total_rows": 10,
+  "total_columns": 6,
+  "total_issues": 6,
+  "issues": [
+    {
+      "column": "name",
+      "issue_type": "null",
+      "severity": "low",
+      "description": "Missing value in column",
+      "affected_rows": [
+        8
+      ],
+      "affected_count": 1
+    },
+    {
+      "column": "email",
+      "issue_type": "null",
+      "severity": "low",
+      "description": "Missing value in column",
+      "affected_rows": [
+        1
+      ],
+      "affected_count": 1
+    },
+    {
+      "column": "account_balance",
+      "issue_type": "null",
+      "severity": "low",
+      "description": "Missing value in column",
+      "affected_rows": [
+        3
+      ],
+      "affected_count": 1
+    },
+    {
+      "column": "ALL_COLUMNS",
+      "issue_type": "duplicate",
+      "severity": "medium",
+      "description": "Duplicate values found",
+      "affected_rows": [
+        0,
+        4
+      ],
+      "affected_count": 2
+    },
+    {
+      "column": "account_balance",
+      "issue_type": "type_mismatch",
+      "severity": "high",
+      "description": "Type mismatch in column",
+      "affected_rows": [
+        9
+      ],
+      "affected_count": 1
+    },
+    {
+      "column": "email",
+      "issue_type": "invalid_format",
+      "severity": "medium",
+      "description": "Invalid format in column",
+      "affected_rows": [
+        5
+      ],
+      "affected_count": 1
+    }
+  ],
+  "overall_quality_score": 0.4,
+  "summary": "6 issues found with varying severities"
+}

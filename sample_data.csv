@@ -1,0 +1,11 @@
+customer_id,name,email,age,city,account_balance
+1,Rahul Sharma,rahul@gmail.com,32,Mumbai,45000
+2,Priya Singh,,28,Delhi,82000
+3,Amit Kumar,amit@yahoo.com,150,Chennai,91000
+4,Neha Gupta,neha@gmail.com,25,Mumbai,
+1,Rahul Sharma,rahul@gmail.com,32,Mumbai,45000
+6,Raj Patel,raj@,35,Pune,67000
+7,Sunita Verma,sunita@gmail.com,-5,Hyderabad,23000
+8,Kiran Rao,kiran@gmail.com,29,Bangalore,55000
+9,,meera@gmail.com,31,Delhi,78000
+10,Deepak Joshi,deepak@gmail.com,27,Mumbai,abc
