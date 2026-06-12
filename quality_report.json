@@ -65,6 +65,6 @@
       "affected_count": 1
     }
   ],
-  "overall_quality_score": 0.4,
-  "summary": "6 issues found with varying severities"
+  "overall_quality_score": 0.2,
+  "summary": "Multiple issues found with data quality"
 }
